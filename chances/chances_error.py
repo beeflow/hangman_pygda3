@@ -1,0 +1,2 @@
+class ChancesError(ValueError):
+    pass
